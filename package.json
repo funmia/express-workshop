@@ -1,0 +1,22 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "A basic content management system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funmia/express-workshop.git"
+  },
+  "author": "funmia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funmia/express-workshop/issues"
+  },
+  "homepage": "https://github.com/funmia/express-workshop#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
