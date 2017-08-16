@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/funmia/express-workshop#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "express-formidable": "^1.0.0"
   }
 }
